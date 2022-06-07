@@ -1,0 +1,6 @@
+{
+  "type": "module",
+  "dependencies": {
+    "react-dropzone": "^14.2.1"
+  }
+}
